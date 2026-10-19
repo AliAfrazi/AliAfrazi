@@ -1,6 +1,6 @@
 # Hi, I'm Ali Afrazi 👋
 
-### Flutter Developer | Dart | Mobile Application Development
+### Senior Mobile Software Engineer | Flutter & Dart | Clean Architecture | REST APIs | State Management
 
 I'm a software developer passionate about building reliable, maintainable, and user-friendly applications. I enjoy learning new technologies, solving technical challenges, and writing clean, well-structured code.
 
